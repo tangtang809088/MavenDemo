@@ -26,7 +26,7 @@ public class BrowserUtil {
 	         return driver;
 	    }
 	     public void teardownBrowser(){
-	    	         driver.close();    
+	    	        // driver.close();    
 	    	     }  
 
 }
